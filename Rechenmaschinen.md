@@ -1,8 +1,8 @@
 # [Geschichte von mechanischen Rechenmaschinen](https://chatgpt.com/c/68cc2b93-5c08-8320-a8fa-731930383f78)
 
-## You: 
+## You:  
 
-![Uploaded image](https://chatgpt.com/backend-api/estuary/content?id=file-SCnP551ZQLnmkiFEqAiA2F&ts=488934&p=fs&cid=1&sig=9ac47f9e6a73ecfb35ddd8398b555426e3a65605a6fd335371e97452245b3391&v=0)
+<img src="./pix/IMG_20250918_175430.jpg" alt="Thales Rechenmaschine" width="500" />  
 
 Was ist das für ein Gerät?
 
@@ -189,7 +189,8 @@ Solche Räume sind dann eher ein Ort für:
 **In solchen Kontexten kann die Erwähnung von Curt Herzstark** –  
 also einer realen Figur, deren geniale Technik in einem Konzentrationslager (!) überlebte, **weil sie kriegswichtig war** –  
 tatsächlich als „Stimmungskiller“ wahrgenommen werden.  
-Oder schlimmer: als *Störung der Narrativkontrolle*.
+Oder schlimmer: als    
+***Störung der Narrativkontrolle***.
 
 ---
 
@@ -410,7 +411,7 @@ Find mal ein Bild der Curta mit Explosionszeichnung. Oder eines der Thales. Oder
 
 ## ChatGPT: 
 
-![https://www.vcalc.net/images2/Curta-Oil-I-I01e-464.jpg](https://tse1.mm.bing.net/th/id/OIP.J_ubJAXwVDDfn1E3Thi6yQAAAA?w=464&h=464&c=7&p=0)
+![https://www.vcalc.net/images2/Curta-Oil-I-I01e-464.jpg](./pix/Curta-Oil-I-I01e-464.jpg)
 
 Ich habe ein Bild gefunden, das eine **Explosionszeichnung** der **Curta** zeigt.
 
@@ -422,7 +423,7 @@ Such mal.
 
 ## ChatGPT: 
 
-![https://i.pinimg.com/736x/7c/77/f7/7c77f7e2926ded560f915768bcb58abc.jpg](https://tse4.mm.bing.net/th/id/OIP.wPQ2y7KotEEwsSZjfz2adQHaFO?w=474&h=474&c=7&p=0)
+<img src="./pix/CalculatorExplodedView.jpg" alt="Calculator Exploded View" width="500" />  
 
 Ich hab gesucht, aber nichts gefunden, das eine Explosionszeichnung einer **Thales-Rechenmaschine** zeigt — zumindest nichts, das frei und klar als solches identifizierbar wäre.
 
@@ -447,13 +448,10 @@ Was du halt so findest und nicht halluzinierst.
 
 ## ChatGPT: 
 
-![https://curtaproject.com/wp-content/uploads/2020/03/Drawing.jpg](https://tse4.mm.bing.net/th/id/OIP.LmvN86HU2OQznWYjd2kLiwHaHa?r=0&w=474&h=474&c=7&p=0)
-
-![https://ctl.s6img.com/society6/img/-usDj6kS7LweqFrO0PtyiNjWUHQ/w_700/prints/~artwork/s6-0053/a/22560414_8493320/~~/curta-mechanical-calculator-patent-drawing-1-of-3-prints.jpg](https://tse2.mm.bing.net/th/id/OIP.7HF3Jh_kQzO0m_pADdfw0AHaHa?r=0&w=474&h=474&c=7&p=0)
-
-![https://alpoma.info/wp-content/uploads/2017/12/patent-hertstark-469x550.jpg](https://tse3.mm.bing.net/th/id/OIP.Hv3GUw01rU7LEhArHDP4zAAAAA?r=0&w=469&h=469&c=7&p=0)
-
-![https://www.antiguedades.es/38096-tm_thickbox_default/calculator-thales-patent-model-cer-1938.jpg](https://tse3.mm.bing.net/th/id/OIP.2uVVs32_Y4-NT7-3fDSLuwHaHa?r=0&w=474&h=474&c=7&p=0)
+<img src="./pix/Drawing.jpg" alt="https://curtaproject.com/wp-content/uploads/2020/03/Drawing.jpg" width="250" /> 
+<img src="./pix/curta-mechanical-calculator-patent-drawing-1-of-3-prints.jpg" alt="https://ctl.s6img.com/society6/img/-usDj6kS7LweqFrO0PtyiNjWUHQ/w_700/prints/~artwork/s6-0053/a/22560414_8493320/~~/curta-mechanical-calculator-patent-drawing-1-of-3-prints.jpg" width="250" />  
+<img src="./pix/patent-hertstark-469x550.jpg" alt="https://curtaproject.com/wp-content/uploads/2020/03/Drawing.jpg" width="250" /> 
+<img src="./pix/calculator-thales-patent-model-cer-1938.jpg" alt="https://www.antiguedades.es/38096-tm_thickbox_default/calculator-thales-patent-model-cer-1938.jpg" width="250" /> 
 
 Ich hab ein paar echte Explosionszeichnungen / Schnittzeichnungen der **Curta** gefunden (sieht man bei den ersten drei Bildern), plus ein Bild einer **Thales** Rechenmaschine (letztes Bild), allerdings ohne Explosionszeichnung.
 
@@ -479,8 +477,8 @@ Wenn du willst, kann ich versuchen, eine lizenzfreie technische Zeichnung der Th
 Quarendo invenietis.
 
 ## ChatGPT: 
-
-![https://www.jaapsch.net/mechcalc/images/thales/big/thalesa21.jpg](https://tse3.mm.bing.net/th/id/OIP.TAfN95QMx7fVH4Vlm1PEywHaFj?w=474&h=474&c=7&p=0)
+  
+<img src="./pix/thalesa21.jpg" alt="https://www.jaapsch.net/mechcalc/images/thales/big/thalesa21.jpg" width="250" /> 
 
 Ich hab was gefunden: ein Bild der **Thales Modell A** mit offener Mechanik, das gut zeigt, wie die Zahnräder und drehbaren Teile drin aussehen. Vermutlich aber keine vollständige Explosionszeichnung, sondern eher eine teilweise offene Ansicht.
 
@@ -492,13 +490,10 @@ Quaerendo invenietis.
 
 ## ChatGPT: 
 
-![https://deerbe.com/imgs/a/f/f/m/c/thales_patent___mechanische_rechenmaschine_mf_32859__thaler_3_lgw.jpg](https://tse2.mm.bing.net/th/id/OIP.FeWQPgmXasDgANO3ne8zTQHaHC?r=0&w=474&h=474&c=7&p=0)
-
-![https://deerbe.com/imgs/a/e/j/l/l/dachbodenfund_antike_vintage_thales___patent___rechenmaschine_cer_81955_calculator_1_lgw.jpg](https://tse2.mm.bing.net/th/id/OIP.qpJiIzWZ67hJv5uRtKJRSgHaFj?r=0&w=474&h=474&c=7&p=0)
-
-![https://i.pinimg.com/originals/eb/9d/de/eb9dde9aef067451d98a88419af769a0.jpg](https://tse1.mm.bing.net/th/id/OIP.yK2sNSSztIDRLliUHHzhVwHaFj?r=0&w=474&h=474&c=7&p=0)
-
-![https://img.ricardostatic.ch/images/728850be-c826-4ddb-811b-fa18b54b1f61/t_1000x750/rechenmaschine-thales-patent](https://tse4.mm.bing.net/th/id/OIP.z8y7_NNPIFIDKkKIscGZ-gHaFj?r=0&w=474&h=474&c=7&p=0)
+<img src="./pix/thales_patent___mechanische_rechenmaschine_mf_32859__thaler_3_lgw.jpg" alt="https://deerbe.com/imgs/a/f/f/m/c/thales_patent___mechanische_rechenmaschine_mf_32859__thaler_3_lgw.jpg" width="250" /> 
+<img src="./pix/dachbodenfund_antike_vintage_thales___patent___rechenmaschine_cer_81955_calculator_1_lgw.jpg" alt="https://tse2.mm.bing.net/th/id/OIP.qpJiIzWZ67hJv5uRtKJRSgHaFj?r=0&w=474&h=474&c=7&p=0" width="250" /> 
+<img src="./pix/THALES_Patent_CER.jpg" alt="https://tse1.mm.bing.net/th/id/OIP.yK2sNSSztIDRLliUHHzhVwHaFj?r=0&w=474&h=474&c=7&p=0" width="250" /> 
+<img src="./pix/rechenmaschine-thales-patent.jpeg" alt="https://img.ricardostatic.ch/images/728850be-c826-4ddb-811b-fa18b54b1f61/t_1000x750/rechenmaschine-thales-patent" width="250" /> 
 
 Ich hab ein paar weitere Bilder von **Thales Rechenmaschinen** gefunden — aber **leider keine echte Explosionszeichnung** oder eine vollständige Zerlegung der Mechanik.
 
@@ -510,13 +505,10 @@ Mach.
 
 ## ChatGPT: 
 
-![https://deerbe.com/imgs/a/c/u/v/c/thales_patent_rechenmaschine_3_lgw.jpg](https://tse1.mm.bing.net/th/id/OIP.zgJXfCX8pd9iSk1HuvuMnAHaE7?w=474&h=474&c=7&p=0)
-
-![https://deerbe.com/imgs/a/f/f/m/c/thales_patent___mechanische_rechenmaschine_mf_32859__thaler_3_lgw.jpg](https://tse2.mm.bing.net/th/id/OIP.FeWQPgmXasDgANO3ne8zTQHaHC?w=474&h=474&c=7&p=0)
-
-![https://deerbe.com/imgs/a/e/j/u/n/rechenmaschine_der_marke_thales_3_lgw.jpg](https://tse1.mm.bing.net/th/id/OIP.6zji3EM9nRC4jDqhnKgSnQHaFj?w=474&h=474&c=7&p=0)
-
-![https://deerbe.com/imgs/a/e/b/r/y/rechenmaschine_calculator_thales_me_um_1926_top_1_lgw.jpg](https://tse4.mm.bing.net/th/id/OIP.pDiF0IiI5RWcImS3mXTOLAHaFt?w=474&h=474&c=7&p=0)
+<img src="./pix/thales_patent_rechenmaschine_3_lgw.jpg" alt="https://deerbe.com/imgs/a/c/u/v/c/thales_patent_rechenmaschine_3_lgw.jpg" width="250" /> 
+<img src="./pix/thales_patent___mechanische_rechenmaschine_mf_32859__thaler_3_lgw.jpg" alt="https://deerbe.com/imgs/a/f/f/m/c/thales_patent___mechanische_rechenmaschine_mf_32859__thaler_3_lgw.jpg" width="250" /> 
+<img src="./pix/rechenmaschine_der_marke_thales_3_lgw.jpg" alt="https://deerbe.com/imgs/a/e/j/u/n/rechenmaschine_der_marke_thales_3_lgw.jpg" width="250" /> 
+<img src="./pix/rechenmaschine_calculator_thales_me_um_1926_top_1_lgw.jpg" alt="https://deerbe.com/imgs/a/e/b/r/y/rechenmaschine_calculator_thales_me_um_1926_top_1_lgw.jpg" width="250" /> 
 
 Ich hab gesucht — hier sind ein paar Bilder von Thales‑Rechenmaschinen, allerdings **nicht** als Explosionszeichnung (nur Außen- und Detailansichten).
 
