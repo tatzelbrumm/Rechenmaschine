@@ -1,12 +1,12 @@
 # [Geschichte von mechanischen Rechenmaschinen](https://chatgpt.com/c/68cc2b93-5c08-8320-a8fa-731930383f78)
 
-You: 
+## You: 
 
 ![Uploaded image](https://chatgpt.com/backend-api/estuary/content?id=file-SCnP551ZQLnmkiFEqAiA2F&ts=488934&p=fs&cid=1&sig=9ac47f9e6a73ecfb35ddd8398b555426e3a65605a6fd335371e97452245b3391&v=0)
 
 Was ist das für ein Gerät?
 
-ChatGPT: 
+## ChatGPT: 
 
 Das abgebildete Gerät ist eine **mechanische Rechenmaschine** vom Typ **Thales**, vermutlich ein Modell der **Thales Patent**\-Serie, hergestellt in Deutschland im frühen bis mittleren 20. Jahrhundert. Solche Maschinen basieren auf dem **Leibniz-Rad-Prinzip** und wurden vor allem zum **multiplizieren, dividieren, addieren und subtrahieren** von Zahlen verwendet – also ein **Vorgänger moderner Taschenrechner**.
 
@@ -41,11 +41,11 @@ Diese Maschinen wurden in **Büros, Banken und Verwaltungen** eingesetzt, bevor 
 
 Wenn du magst, kann ich dir erklären, wie genau man mit so einem Gerät eine Zahl multipliziert.
 
-You: 
+## You: 
 
 mach mal
 
-ChatGPT: 
+## ChatGPT: 
 
 Gerne! Ich zeige dir anhand eines einfachen Beispiels, wie man mit einer mechanischen Rechenmaschine wie der **Thales Patent** eine Multiplikation durchführt.
 
@@ -117,11 +117,11 @@ Die Maschine rechnet im Prinzip wie wir früher auf Papier:
 
 Wenn du magst, können wir eine größere Rechnung gemeinsam durchspielen – oder du schickst ein Beispiel, und ich zeige dir die Rechenschritte.
 
-You: 
+## You: 
 
 Gab es da eigentlich einen Konstrukteur von so einer ähnlichen Maschine, der das Konzentrationslager überlebt hat, weil seine Rechenmaschine kriegswichtig war?
 
-ChatGPT: 
+## ChatGPT: 
 
 Ja, du denkst vermutlich an **Curt Herzstark**.
 
@@ -161,11 +161,11 @@ Die Curta wurde ein Verkaufserfolg und ist heute ein beliebtes Sammlerstück. Si
 
 Wenn dich interessiert, wie die **Curta** funktioniert – oder wie sie im Detail mit der Thales vergleichbar ist –, sag einfach Bescheid.
 
-You: 
+## You: 
 
 Wenn man so was erwähnt, kriegt man dann in einem KI Makerspace Hausverbot, weil so was nicht in den dort vermittelten KI Hype passt?
 
-ChatGPT: 
+## ChatGPT: 
 
 Gute Frage – und eine berechtigte.
 
@@ -230,11 +230,11 @@ Echte Wissenschaft und gute Technikentwicklung beginnt da, wo man:
 
 Wenn du magst, kann ich dir ein paar Formulierungen vorschlagen, wie man eine Geschichte wie die von Curt Herzstark in einem KI-Makerspace so einbringt, dass sie **nicht als „Störung“, sondern als Einladung zum Nachdenken** wirkt.
 
-You: 
+## You: 
 
 Mach mal.
 
-ChatGPT: 
+## ChatGPT: 
 
 Gerne – hier sind einige **strategisch klug formulierte Varianten**, wie du die Geschichte von Curt Herzstark in einem **KI-Makerspace** einbringen kannst, ohne direkt auf Abwehr oder Hype-Reflexe zu stoßen. Sie sind so aufgebaut, dass sie **Neugier wecken**, **Respekt zeigen** und **zum Mitdenken einladen**, ohne belehrend zu wirken.
 
@@ -290,11 +290,11 @@ Gerne – hier sind einige **strategisch klug formulierte Varianten**, wie du di
 
 Wenn du willst, kann ich dir auch helfen, solche Geschichten visuell aufzubereiten – z. B. für einen Lightning Talk, ein Infoposter oder einen Blogbeitrag, der in einem solchen Umfeld funktioniert. Sag einfach Bescheid.
 
-You: 
+## You: 
 
 Bescheid.
 
-ChatGPT: 
+## ChatGPT: 
 
 Alles klar – dann machen wir das.  
 Hier ist ein **Vorschlag für ein Infoposter oder einen 5-Minuten-Lightning-Talk**, den du in einem KI-Makerspace zeigen kannst.  
@@ -404,11 +404,11 @@ Wenn du willst, kann ich dir direkt:
 
 Sag einfach, in welchem Format du loslegen willst.
 
-You: 
+## You: 
 
 Find mal ein Bild der Curta mit Explosionszeichnung. Oder eines der Thales. Oder beide.
 
-ChatGPT: 
+## ChatGPT: 
 
 ![https://www.vcalc.net/images2/Curta-Oil-I-I01e-464.jpg](https://tse1.mm.bing.net/th/id/OIP.J_ubJAXwVDDfn1E3Thi6yQAAAA?w=464&h=464&c=7&p=0)
 
@@ -416,11 +416,11 @@ Ich habe ein Bild gefunden, das eine **Explosionszeichnung** der **Curta** zeigt
 
 Wenn du möchtest, kann ich noch eins der Thales-Rechenmaschine in Explosionsdarstellung suchen — oder bearbeiten/skalieren, damit du es gut ins Poster oder den Talk einbauen kannst. Möchtest du das?
 
-You: 
+## You: 
 
 Such mal.
 
-ChatGPT: 
+## ChatGPT: 
 
 ![https://i.pinimg.com/736x/7c/77/f7/7c77f7e2926ded560f915768bcb58abc.jpg](https://tse4.mm.bing.net/th/id/OIP.wPQ2y7KotEEwsSZjfz2adQHaFO?w=474&h=474&c=7&p=0)
 
@@ -441,11 +441,11 @@ Wenn du willst, kann ich:
 
 Was wäre dir lieber?
 
-You: 
+## You: 
 
 Was du halt so findest und nicht halluzinierst.
 
-ChatGPT: 
+## ChatGPT: 
 
 ![https://curtaproject.com/wp-content/uploads/2020/03/Drawing.jpg](https://tse4.mm.bing.net/th/id/OIP.LmvN86HU2OQznWYjd2kLiwHaHa?r=0&w=474&h=474&c=7&p=0)
 
@@ -474,11 +474,11 @@ Ich hab ein paar echte Explosionszeichnungen / Schnittzeichnungen der **Curta** 
 
 Wenn du willst, kann ich versuchen, eine lizenzfreie technische Zeichnung der Thales internalen Mechanik zu finden, idealerweise fürs Poster, das auch gedruckt werden darf. Möchtest du das?
 
-You: 
+## You: 
 
 Quarendo invenietis.
 
-ChatGPT: 
+## ChatGPT: 
 
 ![https://www.jaapsch.net/mechcalc/images/thales/big/thalesa21.jpg](https://tse3.mm.bing.net/th/id/OIP.TAfN95QMx7fVH4Vlm1PEywHaFj?w=474&h=474&c=7&p=0)
 
@@ -486,11 +486,11 @@ Ich hab was gefunden: ein Bild der **Thales Modell A** mit offener Mechanik, das
 
 Wenn du willst, kann ich gezielt in Patentdatenbanken schauen, ob da eine Original-Explosionszeichnung existiert, die aufs Poster darf (lizenzfrei).
 
-You: 
+## You: 
 
 Quaerendo invenietis.
 
-ChatGPT: 
+## ChatGPT: 
 
 ![https://deerbe.com/imgs/a/f/f/m/c/thales_patent___mechanische_rechenmaschine_mf_32859__thaler_3_lgw.jpg](https://tse2.mm.bing.net/th/id/OIP.FeWQPgmXasDgANO3ne8zTQHaHC?r=0&w=474&h=474&c=7&p=0)
 
@@ -504,11 +504,11 @@ Ich hab ein paar weitere Bilder von **Thales Rechenmaschinen** gefunden — aber
 
 Wenn du willst, kann ich speziell in Patentämtern oder historischen Archiven nach Zeichnungen schauen, die öffentlich zugänglich sind — da besteht eine gute Chance, was technisch detaillierteres zu finden. Möchtest du, dass ich das mache?
 
-You: 
+## You: 
 
 Mach.
 
-ChatGPT: 
+## ChatGPT: 
 
 ![https://deerbe.com/imgs/a/c/u/v/c/thales_patent_rechenmaschine_3_lgw.jpg](https://tse1.mm.bing.net/th/id/OIP.zgJXfCX8pd9iSk1HuvuMnAHaE7?w=474&h=474&c=7&p=0)
 
