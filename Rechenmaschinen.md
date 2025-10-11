@@ -4,7 +4,7 @@
 
 <img src="./pix/IMG_20250918_175430.jpg" alt="Thales Rechenmaschine" width="500" />  
 
-Was ist das für ein Gerät?
+### Was ist das für ein Gerät?
 
 ## ChatGPT: 
 
@@ -43,7 +43,7 @@ Wenn du magst, kann ich dir erklären, wie genau man mit so einem Gerät eine Za
 
 ## You: 
 
-mach mal
+### mach mal
 
 ## ChatGPT: 
 
@@ -119,7 +119,7 @@ Wenn du magst, können wir eine größere Rechnung gemeinsam durchspielen – od
 
 ## You: 
 
-Gab es da eigentlich einen Konstrukteur von so einer ähnlichen Maschine, der das Konzentrationslager überlebt hat, weil seine Rechenmaschine kriegswichtig war?
+### Gab es da eigentlich einen Konstrukteur von so einer ähnlichen Maschine, der das Konzentrationslager überlebt hat, weil seine Rechenmaschine kriegswichtig war?
 
 ## ChatGPT: 
 
@@ -163,7 +163,7 @@ Wenn dich interessiert, wie die **Curta** funktioniert – oder wie sie im Detai
 
 ## You: 
 
-Wenn man so was erwähnt, kriegt man dann in einem KI Makerspace Hausverbot, weil so was nicht in den dort vermittelten KI Hype passt?
+### Wenn man so was erwähnt, kriegt man dann in einem KI Makerspace Hausverbot, weil so was nicht in den dort vermittelten KI Hype passt?
 
 ## ChatGPT: 
 
@@ -233,7 +233,7 @@ Wenn du magst, kann ich dir ein paar Formulierungen vorschlagen, wie man eine Ge
 
 ## You: 
 
-Mach mal.
+### Mach mal.
 
 ## ChatGPT: 
 
@@ -293,7 +293,7 @@ Wenn du willst, kann ich dir auch helfen, solche Geschichten visuell aufzubereit
 
 ## You: 
 
-Bescheid.
+### Bescheid.
 
 ## ChatGPT: 
 
@@ -407,7 +407,7 @@ Sag einfach, in welchem Format du loslegen willst.
 
 ## You: 
 
-Find mal ein Bild der Curta mit Explosionszeichnung. Oder eines der Thales. Oder beide.
+### Find mal ein Bild der Curta mit Explosionszeichnung. Oder eines der Thales. Oder beide.
 
 ## ChatGPT: 
 
@@ -419,7 +419,7 @@ Wenn du möchtest, kann ich noch eins der Thales-Rechenmaschine in Explosionsdar
 
 ## You: 
 
-Such mal.
+### Such mal.
 
 ## ChatGPT: 
 
@@ -444,7 +444,7 @@ Was wäre dir lieber?
 
 ## You: 
 
-Was du halt so findest und nicht halluzinierst.
+### Was du halt so findest und nicht halluzinierst.
 
 ## ChatGPT: 
 
@@ -474,7 +474,7 @@ Wenn du willst, kann ich versuchen, eine lizenzfreie technische Zeichnung der Th
 
 ## You: 
 
-Quarendo invenietis.
+### Quarendo invenietis.
 
 ## ChatGPT: 
   
@@ -486,7 +486,7 @@ Wenn du willst, kann ich gezielt in Patentdatenbanken schauen, ob da eine Origin
 
 ## You: 
 
-Quaerendo invenietis.
+### Quaerendo invenietis.
 
 ## ChatGPT: 
 
@@ -501,7 +501,7 @@ Wenn du willst, kann ich speziell in Patentämtern oder historischen Archiven na
 
 ## You: 
 
-Mach.
+### Mach.
 
 ## ChatGPT: 
 
