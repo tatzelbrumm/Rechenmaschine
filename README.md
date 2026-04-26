@@ -6,7 +6,7 @@ die im KI-Makerspace T&uuml;bingen rumlag.
 
 * [markdown](./Rechenmaschinen.md)  
 * [PDF v.1](./Rechenmaschinen_1.pdf)
-* [PDF v.2](./Rechenmaschinen.2.pdf)  
+* [PDF v.2](./Rechenmaschinen_2.pdf)  
 
 ## Sudelb&uuml;cher
 
